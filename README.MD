@@ -33,6 +33,13 @@ This repository contains a laravel 12 template that comes pre-configured with au
     cd laravel11-stisla
     ```
 
+## local 環境でinstallする場合は、
+　composer　（https://weblabo.oscasierra.net/php-composer-windows-install/）
+  node.js　（https://zenn.dev/mk13182008/articles/42ce264f3f2b38）
+
+  をインストールした後、以下を実施
+
+
 3. Install PHP dependencies:
     ```bash
     composer install

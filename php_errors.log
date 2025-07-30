@@ -1,0 +1,18 @@
+[30-Jul-2025 06:33:04 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[30-Jul-2025 15:33:04 Asia/Tokyo] PHP Warning:  require(C:\MyApp\laravel12-STISLA/vendor/autoload.php): Failed to open stream: No such file or directory in C:\MyApp\laravel12-STISLA\artisan on line 9
+[30-Jul-2025 15:33:04 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\MyApp\laravel12-STISLA/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\MyApp\laravel12-STISLA\artisan:9
+Stack trace:
+#0 {main}
+  thrown in C:\MyApp\laravel12-STISLA\artisan on line 9
+[30-Jul-2025 06:33:09 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[30-Jul-2025 15:33:09 Asia/Tokyo] PHP Warning:  require(C:\MyApp\laravel12-STISLA/vendor/autoload.php): Failed to open stream: No such file or directory in C:\MyApp\laravel12-STISLA\artisan on line 9
+[30-Jul-2025 15:33:09 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\MyApp\laravel12-STISLA/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\MyApp\laravel12-STISLA\artisan:9
+Stack trace:
+#0 {main}
+  thrown in C:\MyApp\laravel12-STISLA\artisan on line 9
+[30-Jul-2025 06:33:33 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[30-Jul-2025 06:36:24 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[30-Jul-2025 07:34:06 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[30-Jul-2025 07:34:27 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[30-Jul-2025 07:34:33 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[30-Jul-2025 07:34:50 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
